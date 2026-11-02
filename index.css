@@ -1,16 +1,15 @@
 
 :root {
   --background: #ffffff;
-  --surface: #f7f7fa;
-  --text: #17171d;
-  --muted: #777783;
+  --surface: #fafafd;
+  --text: #25212a;
+  --muted: #92909b;
   --accent: #e84282;
   --accent-dark: #c92769;
-  --border: #e9e9ef;
+  --border: #eeeeF3;
   --radius: 18px;
   --shadow: 0 12px 35px rgba(24, 24, 40, 0.07);
 }
-
 * {
   box-sizing: border-box;
   margin: 0;
